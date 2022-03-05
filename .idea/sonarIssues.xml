@@ -3,6 +3,61 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.groovy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/api-domain/api-domain-rpc/src/main/resources/dependency.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/api-domain/poi-filter-unified-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/api-domain/poi-filter-unified-api/src/main/java/com/sankuai/meishi/filter/unifiedapi/facade/PoiFilterFacade.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/api-domain/poi-filter-unified-api/src/main/java/com/sankuai/meishi/filter/unifiedapi/gateway/deal/UnifiedDealGateway.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/api-domain/poi-filter-unified-api/src/main/resources/unified_dependency.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/groupapi-meishi-search/src/main/java/com/meituan/meishi/searchapi/biz/gateway/explain/ExplainCommand.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/groupapi-meishi-search/src/main/java/com/sankuai/meishi/search/domain/SearchApiContext.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/groupapi-meishi-search/src/main/java/com/sankuai/meishi/search/web/controller/view/BusinessItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/groupapi-meishi-search/src/main/java/com/sankuai/meishi/search/web/controller/view/DisplayItem.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/web-platform/web-platform-api/src/test/java/com/sankuai/web/platform/octo/PoiServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/array/TwoSum.java">
           <value>
             <set />
@@ -13,7 +68,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/singleton/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/singleton/Singleton2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/a.regexp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
