@@ -2,7 +2,6 @@ package leetcode.singleton;
 
 /**
  * 静态内部类单例
- * @date 2022/3/5 16:56
  */
 public class Singleton2 {
 
