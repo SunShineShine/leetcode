@@ -1,4 +1,4 @@
-.idea
+.idea/*
 logs
 out
 *.iml
@@ -31,4 +31,5 @@ target
 .project
 *-detect.html
 .idea/workspace.xml
+.idea/sonarIssues.xml
 
