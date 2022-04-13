@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35d55a26-0fe4-4e16-9978-9e71a7ef68e4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/singleton/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode/singleton/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/singleton/Singleton2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +195,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

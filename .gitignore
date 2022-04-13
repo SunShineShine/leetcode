@@ -30,4 +30,5 @@ target
 .classpath
 .project
 *-detect.html
+.idea/workspace.xml
 
